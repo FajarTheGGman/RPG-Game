@@ -15,7 +15,7 @@ class game:
 
     def defense(self, lawan, attack_lawan):
         armor_gw = attack_lawan / self.armor
-        print("< Di Serang > : " + lawan.name)
+        print("< Di Serang > : " + self.name)
         self.health -= armor_gw
         print("< Armor > : " + str(self.armor))
         print("< Health > : " + str(self.health) + "\n")
