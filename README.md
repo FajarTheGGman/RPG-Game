@@ -1,7 +1,7 @@
 # RPG-Game
 #Simple RPG Game Made in python3
 
-![alt-text](https://github.com/FajarTheGGman/RPG-Game/blob/master/.%2C/12323.PNG)
+![alt-text](https://github.com/FajarTheGGman/RPG-Game/blob/master/.%2C/Screenshot_2019-07-23-17-54-24-033_com.termux.png)
 
 # How To Install ?
 <pre>
